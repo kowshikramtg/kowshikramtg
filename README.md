@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **full stack (basically MERN)**
 
-- 👨‍💻 All of my projects are available at [---](---)
+- 👨‍💻 All of my projects are available at [https://attendance-calculator-six.vercel.app/](---)
 
-- 📝 I regularly write blogs on ["the severe changes in tech job", "Applications of newly competitive AI models",..]("the severe changes in tech job", "Applications of newly competitive AI models",..)
+- 📝 I regularly write blogs on ["the severe changes in tech job", "Applications of newly competitive AI models",..]
 
 - 📫 How to reach me **kowshik1618@gmail.com**
 
