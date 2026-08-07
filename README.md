@@ -1,28 +1,116 @@
-<h1 align="center">Hey, I'm Kowshik T G</h1>
-<h3 align="center">Proficient Software developer.</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Machine learning,**
+# Kowshik T G
 
-- 👯 I’m looking to collaborate on **full stack (basically MERN)**
+### AI Engineer • Backend Developer • Open Source Contributor
 
-- 👨‍💻 All of my projects are available there in repository list.
+Building intelligent software that solves real-world problems.
 
-- 📝 I regularly write blogs on ["Applications of newly competitive AI models", "My new Ideas of Projects", "the severe changes in tech job",..]
+<p>
 
-- 📫 reach me **kowshik1618@gmail.com**
+<a href="https://github.com/kowshikramtg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<h3 align="left">Links to view: </h3>
-<p align="left">
-<a href="https://twitter.com/kowshikram_1405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kowshikram_1405" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kowshiktg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kowshiktg" height="30" width="40" /></a>
-<a href="https://kaggle.com/kowshiktg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kowshiktg" height="30" width="40" /></a>
-<a href="https://medium.com/@kowshiktg3014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kowshiktg3014" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kowshik_t_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kowshik_t_g" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kowshik3258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kowshik3258" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/by8DJUSWB4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/by8DJUSWB4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kowshik-t-g-036b852b4">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kowshik1618@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://medium.com/@kowshiktg3014">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowshikramtg&show_icons=true&locale=en&layout=compact" alt="kowshikramtg" /></p>
+---
+
+## Building
+
+<table>
+
+<tr>
+<td width="50%">
+
+### AI
+
+- AI Agents
+- LLM Applications
+- Applied Machine Learning
+- Intelligent Automation
+
+</td>
+
+<td width="50%">
+
+### Engineering
+
+- Backend Systems
+- APIs
+- Distributed Systems
+- Developer Tools
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Selected Work
+
+| Project | Description |
+|----------|-------------|
+| **AI Hiring Intelligence Engine** | AI-powered candidate ranking with semantic search & explainability |
+| **AI_OS** | Voice-first AI companion built around intelligent workflows |
+| **PowerPredict** | ML-powered electricity demand forecasting platform |
+| **Namma Metro Companion** | Smart transit application powered by FastAPI |
+| **Medical AI** | Deep Learning pipeline for Breast Cancer Grading |
+
+---
+
+## Toolbox
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,fastapi,nodejs,react,mongodb,mysql,docker,git,linux,aws"/>
+
+</p>
+
+---
+
+## Engineering Principles
+
+```text
+Build useful products.
+Write clean systems.
+Learn continuously.
+Contribute openly.
+Ship relentlessly.
+```
+
+---
+
+## GitHub
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kowshikramtg&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kowshikramtg&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+<div align="center">
+
+> Building software where AI meets real-world engineering.
+
+</div>
