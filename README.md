@@ -4,13 +4,8 @@
 
 ### AI Engineer • Backend Developer • Open Source Contributor
 
-Building intelligent software that solves real-world problems.
-
 <p>
 
-<a href="https://github.com/kowshikramtg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 <a href="https://linkedin.com/in/kowshik-t-g-036b852b4">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -20,11 +15,22 @@ Building intelligent software that solves real-world problems.
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://medium.com/@kowshiktg3014">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+<a href="https://huggingface.co/kowshiktg">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
 </p>
+
+</div>
+
+---
+
+## Recents - 
+<div align="center" background-color="black">
+  
+ Published Model - [Recruiter Engine MiniLM](https://huggingface.co/kowshiktg/recruiter-engine-minilm) A semantic model developed for candidate–job matching and recruitment intelligence.
+<br>
+<h3>Reached 110+ Downloads on Hugging Face</h3>
 
 </div>
 
@@ -82,18 +88,6 @@ Building intelligent software that solves real-world problems.
 <img src="https://skillicons.dev/icons?i=python,java,c,fastapi,nodejs,react,mongodb,mysql,docker,git,linux,aws"/>
 
 </p>
-
----
-
-## Engineering Principles
-
-```text
-Build useful products.
-Write clean systems.
-Learn continuously.
-Contribute openly.
-Ship relentlessly.
-```
 
 ---
 
