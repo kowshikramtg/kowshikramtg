@@ -30,7 +30,7 @@
   
  Published Model - [Recruiter Engine MiniLM](https://huggingface.co/kowshiktg/recruiter-engine-minilm) A semantic model developed for candidate–job matching and recruitment intelligence.
 <br>
-<h3>Reached 190+ Downloads on Hugging Face</h3>
+<h3>Reached 290+ Downloads on Hugging Face</h3>
 
 </div>
 
